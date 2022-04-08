@@ -20,5 +20,5 @@ if ($uri !== '/' && file_exists(__DIR__.'/public'.$uri)) {
 
 require_once __DIR__.'/public/index.php';
 require_once __DIR__.'/public/index1.php';
-require_once __DIR__.'/public/index2.php';
-require_once __DIR__.'/public/index2.php';
+
+// penambahan data baru
